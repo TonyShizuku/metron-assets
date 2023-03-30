@@ -58350,9 +58350,11 @@ canvas {
 
 body {
   background: #18191a;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center top;
-  background-size: 100% 350px; }
+  background-size: 100% 350px; 
+  background-image: url("https://jihulab.com/tonyshizukueecadbcadd204749/imgcdn-test-05270000/-/raw/main/wbnnan/cut.png");
+}
 
 @media (min-width: 992px) {
   .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
